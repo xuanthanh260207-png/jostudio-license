@@ -1,0 +1,21 @@
+{
+  "global_kill": false,
+  "global_message": "Hệ thống đang bảo trì.",
+  "support_contact": "Zalo hỗ trợ: 0356006855",
+  "licenses": {
+    "JO-KHACH-VIP-01": {
+      "customer": "Anh Tuấn - Khách hàng đã thanh toán",
+      "status": "active",
+      "hwid": "JO-868D-322C-1449",
+      "expires": "2026-12-31",
+      "message": "Đã thanh toán đủ."
+    },
+    "JO-CHUA-TRA-TIEN": {
+      "customer": "Khách hàng chưa thanh toán tiền",
+      "status": "locked",
+      "hwid": "ANY",
+      "expires": "2026-10-26",
+      "message": "Tài khoản bị khóa do chưa thanh toán chi phí phần mềm! Vui lòng liên hệ để mở khóa."
+    }
+  }
+}
