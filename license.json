@@ -5,7 +5,7 @@
   "licenses": {
     "JO-KHACH-VIP-01": {
       "customer": "Anh Tuấn - Khách hàng đã thanh toán",
-      "status": "active",
+      "status": "locked",
       "hwid": "JO-868D-322C-1449",
       "expires": "2026-12-31",
       "message": "Đã thanh toán đủ."
